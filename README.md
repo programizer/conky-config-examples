@@ -1,1 +1,2 @@
-#### Conky configuration examples
+# conky-config-examples
+Conky configuration examples
