@@ -67,5 +67,7 @@ ${top name 3} $alignr ${top pid 3} ${top cpu 3} ${top mem 3}
 ${top name 4} $alignr ${top pid 4} ${top cpu 4} ${top mem 4}
 ${top name 5} $alignr ${top pid 5} ${top cpu 5} ${top mem 5}
 
-
+wlan0 ${hr 2}
+Up:          ${upspeed wlan0}
+Down:    ${downspeed wlan0}
 ]];
